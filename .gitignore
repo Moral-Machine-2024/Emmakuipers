@@ -161,7 +161,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-full_sessions.csv
 llm_dataset.csv
 mme_dataset.csv
 shared_responses_gpt-3.5-turbo-0613.csv
@@ -172,3 +171,6 @@ SharedResponses.csv
 SharedResponsesSurvey.csv
 subset.csv
 total_dataset.csv
+subset_country.csv
+non_western_dataset.csv
+total_nw_dataset.csv
