@@ -210,3 +210,8 @@ total_deleted_50_dataset.csv
 distributed_llm.csv
 new_mme_27.csv
 PREP_llm_dataset.csv
+Output/
+Old/
+TESTS/
+del_50_dataset.csv
+TESTS/test_2.ipynb
