@@ -6,5 +6,5 @@ Compared four models on three different datasets; datasets are all balanced.
 (1) LR
 (2) RF
 (3) SVM
-(4) Simple MLP
+(4) Simple MLP.
 Found that Random Forest was the best on all datasets.
